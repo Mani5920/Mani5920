@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--                  PROFILE HEADER                       -->
+<!--                    PROFILE HEADER                     -->
 <!-- ===================================================== -->
 
 <p align="right">
@@ -17,8 +17,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=false&width=900&height=45&lines=Enterprise+Systems+Engineering;Data+Engineering+%26+Analytics;PKI+%26+Certificate+Lifecycle+Management;Azure+Cloud+%26+Infrastructure;Python%2C+SQL+%26+PowerShell+Automation"
-    alt="Professional focus typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&height=45&lines=Enterprise+Systems+Engineering;Data+Engineering+%26+Analytics;PKI+%26+Certificate+Lifecycle+Management;Azure+Cloud+%26+Infrastructure;Python%2C+SQL+%26+PowerShell+Automation"
+    alt="Professional focus"
   />
 </p>
 
@@ -40,7 +40,7 @@
 ---
 
 <!-- ===================================================== -->
-<!--                    ABOUT ME                           -->
+<!--                       ABOUT ME                        -->
 <!-- ===================================================== -->
 
 ## 👨‍💻 About Me
@@ -54,14 +54,14 @@ I enjoy transforming complex technical and operational requirements into secure,
 - 📍 Based in **Southampton, United Kingdom**
 - 🔐 Experienced in **PKI, X.509 certificates, OpenSSL, TLS/SSL, OCSP, CRL and IAM**
 - 📊 Working with **Python, SQL, PostgreSQL, SQL Server, Power BI and data analytics**
-- ☁️ Developing data solutions with **Azure Data Factory, Azure Databricks and PySpark**
+- ☁️ Developing knowledge across **Azure Data Factory, Azure Databricks and PySpark**
 - ⚙️ Automating operational workflows using **Python, PowerShell and Bash**
 - 🛠️ Focused on **reliability, security, documentation and measurable engineering outcomes**
 
 ---
 
 <!-- ===================================================== -->
-<!--                  PROFESSIONAL FOCUS                   -->
+<!--                    CURRENT FOCUS                      -->
 <!-- ===================================================== -->
 
 ## 🚀 Current Focus
@@ -176,24 +176,28 @@ I enjoy transforming complex technical and operational requirements into secure,
 ---
 
 <!-- ===================================================== -->
-<!--                    FEATURED PROJECTS                   -->
+<!--                    FEATURED PROJECTS                  -->
 <!-- ===================================================== -->
 
 ## 📂 Featured Projects
 
-### 🔐 [Enterprise PKI and Certificate Lifecycle Management Platform](https://github.com/Mani5920/pki-cryptography-certificate-lifecycle-management-platform)
+### 🔐 Enterprise PKI and Certificate Lifecycle Management Platform
 
 Enterprise-focused platform for certificate inventory, issuance, renewal, expiry monitoring, revocation checks and security reporting.
 
 **Technologies:** Python, OpenSSL, SQL, PowerShell, PKI, X.509, OCSP, CRL and TLS/SSL
 
+**Status:** Repository documentation and implementation in progress.
+
 ---
 
-### 🛡️ [Enterprise Identity and Zero Trust Platform](https://github.com/Mani5920/enterprise-identity-zero-trust-platform)
+### 🛡️ Enterprise Identity and Zero Trust Platform
 
 Enterprise security project demonstrating Zero Trust principles, identity protection, certificate-based security, monitoring and infrastructure automation.
 
 **Technologies:** Microsoft Azure, Microsoft Entra ID, Azure Key Vault, Microsoft Sentinel, Terraform, PowerShell and PKI
+
+**Status:** Repository documentation and implementation in progress.
 
 ---
 
@@ -203,7 +207,7 @@ Data analytics project designed to transform retail data into business insights,
 
 **Technologies:** PostgreSQL, SQL, Power BI, DAX, Power Query and data modelling
 
-> Repository link will be added when the project is published.
+**Project background:** Developed as part of an MSc Information Systems dissertation.
 
 ---
 
@@ -213,7 +217,7 @@ Financial data solution for collecting, transforming and visualising market and 
 
 **Technologies:** Python, Dash, Flask, Plotly, SQL and data visualisation
 
-> Repository link will be added when the project is published.
+**Status:** Project repository preparation in progress.
 
 ---
 
@@ -223,7 +227,7 @@ Full-stack information system for managing scooter rentals, customer records, bo
 
 **Technologies:** Node.js, Express.js, PostgreSQL, JavaScript, HTML and CSS
 
-> Repository link will be added when the project is published.
+**Status:** Project repository preparation in progress.
 
 ---
 
@@ -233,12 +237,12 @@ Engineering project focused on restoring underwater images using image-processin
 
 **Technologies:** MATLAB, image processing and scene-depth estimation
 
-> Repository link will be added when the project is published.
+**Project background:** Developed as part of a Bachelor of Technology engineering project.
 
 ---
 
 <!-- ===================================================== -->
-<!--                    PROJECT ROADMAP                    -->
+<!--                     PROJECT ROADMAP                   -->
 <!-- ===================================================== -->
 
 ## 🏗️ Engineering Portfolio Roadmap
@@ -259,75 +263,21 @@ Projects being developed or expanded as part of my engineering portfolio:
 ---
 
 <!-- ===================================================== -->
-<!--                    GITHUB STATISTICS                  -->
-<!-- ===================================================== -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mani5920&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Mani Kumar Nancharla GitHub statistics"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mani5920&theme=tokyonight&hide_border=true"
-    alt="Mani Kumar Nancharla GitHub contribution streak"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani5920&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most frequently used programming languages"
-    height="180"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mani5920&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Mani5920&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1"
-    alt="GitHub profile trophies"
-  />
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--              TRAINING AND PROFESSIONAL LEARNING       -->
+<!--                 PROFESSIONAL TRAINING                 -->
 <!-- ===================================================== -->
 
 ## 📜 Professional Training and Learning
 
 ### Microsoft Instructor-Led Training
 
-- AZ-104 — Microsoft Azure Administrator
-- AZ-500 — Microsoft Azure Security Engineer
-- SC-200 — Microsoft Security Operations Analyst
-- SC-300 — Microsoft Identity and Access Administrator
+- **AZ-104** — Microsoft Azure Administrator
+- **AZ-500** — Microsoft Azure Security Engineer
+- **SC-200** — Microsoft Security Operations Analyst
+- **SC-300** — Microsoft Identity and Access Administrator
 
 ### Additional Technical Learning
 
-- Kubernetes and Cloud-Native fundamentals
+- Kubernetes and cloud-native fundamentals
 - ITIL 4 Foundation learning programme
 - CompTIA Security+ learning programme
 - Cisco CCNA learning programme
@@ -342,7 +292,8 @@ Projects being developed or expanded as part of my engineering portfolio:
 
 ## 🎓 Education
 
-### MSc Information Systems  
+### MSc Information Systems
+
 **University of Portsmouth, United Kingdom**
 
 Relevant areas of study:
@@ -367,7 +318,7 @@ Relevant technical project:
 ---
 
 <!-- ===================================================== -->
-<!--                   ENGINEERING INTERESTS               -->
+<!--                  ENGINEERING INTERESTS                -->
 <!-- ===================================================== -->
 
 ## 💡 Engineering Interests
@@ -388,7 +339,7 @@ Relevant technical project:
 ---
 
 <!-- ===================================================== -->
-<!--                      CONTACT                          -->
+<!--                         CONTACT                       -->
 <!-- ===================================================== -->
 
 ## 🤝 Connect With Me
