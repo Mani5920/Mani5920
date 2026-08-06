@@ -37,7 +37,7 @@ My background combines **systems engineering and security** with **Python, SQL, 
 
 I am also developing cloud-based Data Engineering solutions using **Azure Data Factory, Azure Databricks, PySpark, SQL and Power BI**.
 
-📍 Southampton, United Kingdom
+📍 London, United Kingdom
 
 ---
 
