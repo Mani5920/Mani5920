@@ -1,188 +1,214 @@
+<!-- ===================================================== -->
+
+<!--                 GITHUB PROFILE README                  -->
+
+<!--                 Mani Kumar Nancharla                   -->
+
+<!-- ===================================================== -->
+
 <h1 align="center">Mani Kumar Nancharla</h1>
 
 <h3 align="center">
-Systems Engineer | Data Engineering • PKI & Identity • Cloud Infrastructure
+Systems Engineer | Data Engineering • PKI • Identity • Cloud Infrastructure
 </h3>
 
 <p align="center">
-Building secure, automated and data-driven enterprise platforms
+Building secure, reliable and data-driven enterprise platforms
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nancharla">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nmanikumar5920@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Mani5920">
-    <img src="https://img.shields.io/badge/GitHub-Mani5920-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mani5920&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mani5920?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
 </p>
 
 👨‍💻 Engineering Profile
 
 Systems Engineer with experience across enterprise systems support, infrastructure operations, PKI, certificate lifecycle management, data engineering, cloud platforms, automation and technical reporting.
 
-My work combines systems reliability, security and data engineering. I use technologies including Python, SQL, PowerShell, Bash, Microsoft Azure, Azure Data Factory, Databricks, PySpark, PostgreSQL, SQL Server, OpenSSL, Microsoft CA, Terraform and Docker to build and support secure, reliable and data-driven solutions.
+My background combines systems reliability, security and data engineering with hands-on use of Python, SQL, PowerShell, Bash, Microsoft Azure, Azure Data Factory, Azure Databricks, PySpark, PostgreSQL, SQL Server, OpenSSL, Microsoft Certificate Services, Terraform and Docker.
 
-I am particularly interested in engineering environments where infrastructure, identity, security, automation and data platforms intersect.
+I focus on building and supporting engineering solutions that are secure, maintainable, auditable and operationally reliable, with particular interest in environments where infrastructure, identity, security, automation and data platforms intersect.
 
 📍 United Kingdom
 
-⚡ Engineering Expertise
+💼 Professional Experience
 
-<table>
-<tr>
-<td width="33%" valign="top">
+🏢 Systems Engineer
 
-📊 Data Engineering
+Sopra Steria — Client: NHS Shared Business Services | United Kingdom
 
-ETL / ELT pipelines
+Supporting enterprise applications and operational services across controlled production and test environments.
 
-Data ingestion
+Engineering impact
 
-Data transformation
+Support enterprise applications, technical services and operational workflows in SLA-driven environments.
 
-Data warehousing
+Investigate incidents, system anomalies and application issues using structured troubleshooting and root-cause analysis.
 
-Dimensional modelling
+Perform SQL-based data validation, reconciliation and system-output verification.
 
-Data quality
+Support regression testing, production changes and release activities.
 
-Data reconciliation
+Work across Windows and Linux environments while supporting access controls, security requirements and operational reliability.
 
-Data governance
+Maintain technical procedures, operational documentation and audit-ready support evidence.
 
-Batch processing
+Core technologies: SQL Windows Linux Enterprise Applications Incident Management Testing Service Operations
 
-Streaming concepts
+🔐 PKI Engineer
 
-Analytics engineering
+Randstad India — Deputed to IDRBT | Hyderabad, India
 
-</td>
-<td width="33%" valign="top">
+Enterprise PKI and cryptographic operations supporting secure certificate services and infrastructure.
 
-🖥️ Systems & Infrastructure
+Engineering impact
 
-Windows Server
+Supported certificate issuance, renewal, revocation and expiry monitoring across enterprise environments.
 
-Linux administration
+Worked with X.509 certificates, OpenSSL, Microsoft Certificate Services, TLS/SSL, OCSP and CRLs.
 
-Active Directory
+Supported PKI operations across Windows and Linux systems.
 
-Enterprise applications
+Automated certificate and operational workflows using Bash and PowerShell.
 
-DNS / DHCP / TCP/IP
+Supported HSM-related cryptographic operations and certificate-security workflows.
 
-System monitoring
+Contributed to high-availability and disaster-recovery activities.
 
-Incident management
+Produced SOPs, operational procedures and compliance documentation.
 
-Root cause analysis
+Supported environments aligned with security and compliance controls including FIPS 140-2, PCI DSS and ISO 27001.
 
-Change support
+Core technologies: PKI X.509 OpenSSL Microsoft CA TLS/SSL HSM PowerShell Bash Linux
 
-Service reliability
+📊 Data, Reporting & Automation
 
-Technical documentation
+Across enterprise and project environments, I have also worked with data validation, reporting, automation and analytics workflows.
 
-</td>
-<td width="33%" valign="top">
+Engineering impact
 
-🔐 PKI, Identity & Security
+Built reporting and automation solutions using Python, SQL and Power BI.
 
-Public Key Infrastructure
+Validated operational and business data across multiple systems.
 
-X.509 certificates
+Created data-processing and transformation workflows.
 
-Certificate lifecycle
+Developed dashboards and reporting outputs for operational and business monitoring.
 
-OpenSSL
+Automated recurring activities to reduce manual effort.
 
-Microsoft CA
+Used relational databases to organise, analyse and report enterprise data.
 
-TLS / SSL
+Core technologies: Python SQL Power BI PostgreSQL SQL Server Data Validation Automation
 
-OCSP / CRL
+⚡ Core Engineering Capabilities
 
-IAM
+Engineering Domain
 
-Microsoft Entra ID
+Technologies & Capabilities
 
-HSM concepts
+Systems & Infrastructure
 
-Zero Trust
+Windows Server, Linux, Active Directory, DNS, DHCP, TCP/IP, Enterprise Application Support
 
-Security operations
+Data Engineering
 
-</td>
-</tr>
-</table>
+Python, SQL, ETL/ELT, Azure Data Factory, Databricks, PySpark, Spark, Data Pipelines
+
+Databases & Warehousing
+
+SQL Server, PostgreSQL, MySQL, Oracle, Data Modelling, Data Warehousing
+
+PKI & Cryptography
+
+PKI, X.509, OpenSSL, Microsoft CA, TLS/SSL, OCSP, CRL, Certificate Lifecycle Management
+
+Identity & Security
+
+IAM, Microsoft Entra ID, RBAC, Conditional Access, Zero Trust, Security Monitoring
+
+Cloud
+
+Microsoft Azure, Azure Infrastructure, Key Vault, Azure Monitor, Sentinel, Defender
+
+Automation & DevOps
+
+Python, PowerShell, Bash, Terraform, Docker, Git, GitHub
+
+Analytics & BI
+
+Power BI, Tableau, DAX, Power Query, Data Quality, Data Reconciliation
+
+Service Operations
+
+Incident Management, Root Cause Analysis, Change Support, Testing, SLA Support, Documentation
 
 🧰 Technology Stack
 
-Languages, Querying & Automation
+Programming, Querying & Automation
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-Data Platforms & Analytics
+Data Engineering & Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
-Databases
+Databases & Warehousing
 
 <p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
 Cloud, Infrastructure & DevOps
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 PKI, Identity & Security
 
 <p>
-<img src="https://img.shields.io/badge/PKI-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/X.509-1E293B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"/>
-<img src="https://img.shields.io/badge/TLS%2FSSL-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IAM-334155?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zero_Trust-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PKI-0F172A?style=for-the-badge" alt="PKI" />
+  <img src="https://img.shields.io/badge/X.509-1E293B?style=for-the-badge" alt="X.509" />
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" />
+  <img src="https://img.shields.io/badge/TLS%2FSSL-111827?style=for-the-badge" alt="TLS SSL" />
+  <img src="https://img.shields.io/badge/IAM-334155?style=for-the-badge" alt="IAM" />
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID" />
+  <img src="https://img.shields.io/badge/Zero_Trust-0F766E?style=for-the-badge" alt="Zero Trust" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel" />
 </p>
 
 Enterprise Operations & Collaboration
 
 <p>
-<img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
 </p>
 
 🏗️ Featured Engineering Projects
@@ -297,7 +323,7 @@ View Project →
 <tr>
 <td width="50%" valign="top">
 
-🏦 Banking Data Governance & Quality
+🏦 Banking Data Governance & Quality Platform
 
 Enterprise data governance project demonstrating metadata, lineage, reconciliation and automated data-quality controls.
 
@@ -322,7 +348,7 @@ View Project →
 </td>
 <td width="50%" valign="top">
 
-⚡ Real-Time Customer Analytics
+⚡ Real-Time Customer Analytics Platform
 
 Streaming analytics project demonstrating event ingestion, processing, persistence and containerised services.
 
@@ -346,103 +372,31 @@ View Project →
 </tr>
 </table>
 
-💼 Professional Experience Highlights
+🏅 Certifications & Professional Development
 
-🖥️ Enterprise Systems Engineering
+Microsoft Azure & Security Training
 
-Support enterprise applications, technical services and operational processes.
+Learning Path
 
-Review system outputs, data flows and validation results.
+Focus Area
 
-Investigate incidents, anomalies and service issues.
+AZ-104 Training
 
-Support testing, change activities and technical documentation.
+Microsoft Azure Administration
 
-Work across controlled production and test environments.
+AZ-500 Training
 
-Contribute to service reliability, audit readiness and access governance.
+Azure Security Engineering
 
-🔐 PKI & Certificate Engineering
+SC-200 Training
 
-Supported certificate issuance, renewal, revocation and expiry monitoring.
+Microsoft Security Operations
 
-Worked with OpenSSL, Microsoft CA, X.509, OCSP and CRLs.
+SC-300 Training
 
-Supported PKI operations across Windows and Linux environments.
+Identity & Access Administration
 
-Automated certificate and operational workflows using scripting.
-
-Produced technical procedures, operational documentation and compliance evidence.
-
-Supported high-availability and disaster-recovery activities.
-
-📊 Data Engineering, Reporting & Automation
-
-Built reporting and automation solutions using Python, SQL and Power BI.
-
-Validated operational and business data across multiple systems.
-
-Developed data-processing and transformation workflows.
-
-Created dashboards and reports for performance monitoring.
-
-Automated recurring processes to reduce manual effort.
-
-Used relational databases to organise, analyse and report enterprise data.
-
-🧩 Engineering Capability Map
-
-Domain
-
-Technologies & Capabilities
-
-Data Engineering
-
-Python, SQL, ETL/ELT, ADF, Databricks, PySpark, Spark, data quality
-
-Databases
-
-SQL Server, PostgreSQL, MySQL, Oracle, relational modelling
-
-Analytics
-
-Power BI, Tableau, DAX, Power Query, KPI reporting
-
-Infrastructure
-
-Windows Server, Linux, Active Directory, networking, system operations
-
-PKI
-
-X.509, OpenSSL, Microsoft CA, TLS/SSL, OCSP, CRL, certificate lifecycle
-
-Identity & Security
-
-IAM, Entra ID, Zero Trust, access control, security monitoring
-
-Cloud
-
-Microsoft Azure, AWS fundamentals, Azure infrastructure
-
-Automation / DevOps
-
-PowerShell, Bash, Python, Terraform, Docker, Git, GitHub
-
-IT Operations
-
-Incident management, RCA, change support, monitoring, documentation
-
-📜 Professional Training
-
-Microsoft Instructor-Led Training
-
-AZ-104 — Microsoft Azure Administrator
-
-AZ-500 — Microsoft Azure Security Engineer
-
-SC-200 — Microsoft Security Operations Analyst
-
-SC-300 — Microsoft Identity and Access Administrator
+Completed Microsoft-aligned instructor-led training. Official certification status is only claimed after passing the corresponding certification examination.
 
 Additional Technical Learning
 
@@ -453,8 +407,6 @@ ITIL 4 Foundation learning programme
 CompTIA Security+ learning programme
 
 Cisco CCNA learning programme
-
-Training and learning are listed separately from certifications. Official certification status is claimed only after the corresponding certification examination has been passed.
 
 🎓 Education
 
@@ -474,7 +426,7 @@ Academic project: Underwater Image Restoration using scene-depth estimation
 
 📊 Retail Analytics Platform
 
-Retail analytics solution transforming relational data into KPIs and interactive business reporting.
+Retail analytics solution focused on relational modelling, KPI development and business reporting.
 
 Stack: PostgreSQL • SQL • Power BI • DAX • Power Query
 
@@ -498,32 +450,18 @@ Stack: MATLAB • Image Processing
 
 🎯 Engineering Focus
 
-Systems Engineering • Data Engineering • Cloud Data Platforms • PKI • Identity • Azure Infrastructure • Data Warehousing • Automation • Platform Engineering • Cybersecurity • Data Quality
-
-🌐 Portfolio & Contact
-
 <p align="center">
-  <a href="https://mani5920.github.io/data-engineering-portfolio/">
-    <img src="https://img.shields.io/badge/Data_Engineering-Portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mani5920/infrastructure-pki-cybersecurity-portfolio">
-    <img src="https://img.shields.io/badge/Infrastructure_PKI-Security_Portfolio-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<strong>
+Systems Engineering • Data Engineering • Cloud Platforms • PKI • Identity & Access Management •
+Azure Infrastructure • Data Warehousing • Automation • Platform Engineering • Cybersecurity •
+Data Quality & Governance
+</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nancharla">
-    <img src="https://img.shields.io/badge/LinkedIn-Mani_Kumar_Nancharla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nmanikumar5920@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nmanikumar5920%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <strong>Secure Systems • Reliable Infrastructure • Trusted Data</strong>
 </p>
 
 <p align="center">
-<strong>Secure Systems • Reliable Infrastructure • Trusted Data</strong>
-</p>
-
-<p align="center">
-Systems Engineering • Data Engineering • PKI • Identity • Cloud • Automation
+  Systems Engineering • Data Engineering • PKI • Identity • Cloud • Automation
 </p>
