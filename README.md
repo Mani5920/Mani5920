@@ -31,23 +31,87 @@ I engineer and support enterprise technology across systems reliability, secure 
 
 Core approach: Secure by design • Validate before trust • Automate repeatable work • Engineer for reliability • Document for operations
 
-🧭 Engineering Capability Map
+## 🧭 Engineering Capability Map
 
-🖥️ Systems & Infrastructure
+> **One engineering profile connecting enterprise systems, trusted data, digital identity, cloud infrastructure and automation.**
 
-Windows Server Linux Enterprise Applications Incident Management Service Reliability Regression Testing Change Support Monitoring
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📊 Data Engineering & Analytics
+### 🖥️ Systems & Infrastructure
 
-Python SQL ETL / ELT Azure Data Factory Azure Databricks PySpark Data Warehousing Data Modelling Data Quality Power BI
+**ENGINEER • OPERATE • SUPPORT**
 
-🔐 PKI • Identity • Security
+`Windows Server` · `Linux` · `Enterprise Applications`  
+`Incident Management` · `Service Reliability`  
+`Regression Testing` · `Change Support`  
+`Monitoring` · `Troubleshooting` · `Documentation`
 
-PKI X.509 OpenSSL Microsoft CA TLS / SSL OCSP / CRL HSM IAM RBAC Microsoft Entra ID Zero Trust
+**Focus:** Reliable enterprise services and operational resilience.
 
-☁️ Cloud • DevOps • Automation
+</td>
 
-Microsoft Azure AWS Docker Terraform Git GitHub Actions Python Automation PowerShell Bash
+<td width="50%" valign="top">
+
+### 📊 Data Engineering & Analytics
+
+**INGEST • VALIDATE • MODEL • ANALYSE**
+
+`Python` · `SQL` · `ETL / ELT`  
+`Azure Data Factory` · `Azure Databricks` · `PySpark`  
+`Data Warehousing` · `Data Modelling`  
+`Data Quality` · `Power BI`
+
+**Focus:** Trusted, validated and analytics-ready data.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 PKI • Identity • Security
+
+**IDENTITY • TRUST • PROTECT**
+
+`PKI` · `X.509` · `OpenSSL` · `Microsoft CA`  
+`TLS / SSL` · `OCSP / CRL` · `HSM`  
+`IAM` · `RBAC` · `Microsoft Entra ID`  
+`Zero Trust` · `Certificate Lifecycle`
+
+**Focus:** Digital trust, secure identity and controlled access.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud • DevOps • Automation
+
+**BUILD • AUTOMATE • OBSERVE**
+
+`Microsoft Azure` · `AWS` · `Docker`  
+`Terraform` · `Git` · `GitHub Actions`  
+`Python Automation` · `PowerShell` · `Bash`  
+`Infrastructure as Code` · `Azure Monitor`
+
+**Focus:** Repeatable cloud engineering and operational automation.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+**SYSTEMS** → **SECURITY** → **DATA** → **CLOUD** → **AUTOMATION**
+
+<sub>Engineering reliable enterprise platforms from infrastructure and identity through trusted data and operations.</sub>
+
+</div>
+
+---
 
 🧰 Technology Stack
 
