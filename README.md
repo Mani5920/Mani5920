@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:07111F,45:0B2345,100:0078D4&text=%3E_%20MANI%20KUMAR%20NANCHARLA&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Enterprise%20Systems%20%E2%80%A2%20Data%20%E2%80%A2%20PKI%20%E2%80%A2%20Cloud%20%E2%80%A2%20Identity%20%E2%80%A2%20Automation&descAlignY=60&descSize=15" alt="Mani Kumar Nancharla"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:07111F,45:0B2345,100:0078D4&text=MANI%20KUMAR%20NANCHARLA&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Enterprise%20Systems%20%E2%80%A2%20Data%20%E2%80%A2%20PKI%20%E2%80%A2%20Cloud%20%E2%80%A2%20Identity%20%E2%80%A2%20Automation&descAlignY=60&descSize=15" alt="Mani Kumar Nancharla"/>
 
 <h3>Enterprise Systems Engineer · Data Engineering · PKI · Cloud · Identity</h3>
 
