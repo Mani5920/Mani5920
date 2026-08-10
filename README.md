@@ -515,36 +515,30 @@ Data lifecycle: SOURCE → INGEST → BRONZE → SILVER → GOLD → MODEL → A
 
 <h3>🎓 MSc Information Systems</h3>
 
-<b>University of Portsmouth</b><br/>
+<b>University of Portsmouth</b><br>
 🇬🇧 United Kingdom
 
-<br/><br/>
+<p>
+<img src="https://img.shields.io/badge/MASTER'S-INFORMATION%20SYSTEMS-0078D4?style=flat-square">
+</p>
 
-<img src="https://img.shields.io/badge/MASTER'S-INFORMATION%20SYSTEMS-0078D4?style=flat-square"/>
+<b>Academic Focus</b>
 
-<br/><br/>
-
-<b>Academic Focus</b><br/><br/>
-
+<p>
 <code>Information Systems</code>
 <code>Cybersecurity</code>
 <code>Web Product Development</code>
 <code>UX</code>
 <code>Research Methods</code>
+</p>
 
-<br/><br/>
+<b>📊 Dissertation — Retail Analytics</b>
 
-<b>📊 Dissertation</b><br/><br/>
-
-<b>Retail Analytics</b>
-
-<br/><br/>
-
+<p>
 <code>Power BI</code>
 <code>PostgreSQL</code>
 <code>Analytics</code>
-
-<br/><br/>
+</p>
 
 Transforming business data into structured analytical insights.
 
@@ -557,32 +551,26 @@ Transforming business data into structured analytical insights.
 
 <b>Engineering Foundation</b>
 
-<br/><br/>
+<p>
+<img src="https://img.shields.io/badge/BACHELOR'S-ENGINEERING-0078D4?style=flat-square">
+</p>
 
-<img src="https://img.shields.io/badge/BACHELOR'S-ENGINEERING-0078D4?style=flat-square"/>
+<b>Core Foundation</b>
 
-<br/><br/>
-
-<b>Core Foundation</b><br/><br/>
-
+<p>
 <code>Electronics</code>
 <code>Communications</code>
 <code>Computing</code>
 <code>Technical Problem Solving</code>
+</p>
 
-<br/><br/>
+<b>🌊 Academic Project — Underwater Image Restoration</b>
 
-<b>🌊 Academic Project</b><br/><br/>
-
-<b>Underwater Image Restoration</b>
-
-<br/><br/>
-
+<p>
 <code>Image Processing</code>
 <code>Image Enhancement</code>
 <code>Scene Depth</code>
-
-<br/><br/>
+</p>
 
 Image enhancement and scene-depth estimation.
 
@@ -590,8 +578,6 @@ Image enhancement and scene-depth estimation.
 
 </tr>
 </table>
-
-<br/>
 📚 Technical Development
 
 AZ-104 — Azure Administrator: instructor-led training completed; exam pending
