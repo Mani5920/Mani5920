@@ -496,16 +496,105 @@ Customer 360
 
 <br/>
 
-🏗️ Enterprise Engineering Model
+<h2>🏗️ Enterprise Engineering Model</h2>
 
-One Engineering Model — Multiple Enterprise Capabilities
+<div align="center">
 
-SYSTEMS & CLOUD → reliable infrastructure and enterprise servicesSECURITY & IDENTITY → trusted access, PKI and certificate operationsDATA PLATFORMS → validated, modelled and analytics-ready informationAUTOMATION & DEVOPS → repeatable engineering and operational efficiency
+<h3>One Engineering Model — Multiple Enterprise Capabilities</h3>
 
-Security lifecycle: IDENTITY → AUTHENTICATION → AUTHORIZATION → PKI TRUST → ACCESS → MONITORING → AUDIT
+<p>
+<img src="https://img.shields.io/badge/SYSTEMS_%26_CLOUD-RELIABLE_PLATFORMS-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/SECURITY_%26_IDENTITY-DIGITAL_TRUST-0078D4?style=for-the-badge">
+</p>
 
-Data lifecycle: SOURCE → INGEST → BRONZE → SILVER → GOLD → MODEL → ANALYTICS
+<p>
+<img src="https://img.shields.io/badge/DATA_PLATFORMS-TRUSTED_DATA-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/AUTOMATION_%26_DEVOPS-ENGINEERING_EFFICIENCY-0078D4?style=for-the-badge">
+</p>
 
+</div>
+
+<table>
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+### 🖥️ Systems
+
+**BUILD & OPERATE**
+
+Infrastructure  
+Enterprise Applications  
+Reliability  
+Monitoring
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🔐 Security
+
+**PROTECT & TRUST**
+
+Identity  
+PKI / X.509  
+Access Control  
+Zero Trust
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 📊 Data
+
+**INGEST & VALIDATE**
+
+Pipelines  
+Data Quality  
+Modelling  
+Analytics
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### ⚙️ Automation
+
+**AUTOMATE & SCALE**
+
+Python  
+PowerShell  
+Bash  
+Terraform
+
+</td>
+
+</tr>
+</table>
+
+### 🔐 Security Engineering Lifecycle
+
+<div align="center">
+
+`IDENTITY` → `AUTHENTICATION` → `AUTHORIZATION` → `PKI TRUST` → `ACCESS` → `MONITORING` → `AUDIT`
+
+</div>
+
+### 📊 Data Engineering Lifecycle
+
+<div align="center">
+
+`SOURCE` → `INGEST` → `BRONZE` → `SILVER` → `GOLD` → `MODEL` → `ANALYTICS`
+
+</div>
+
+<div align="center">
+
+**Secure Systems • Trusted Identity • Quality Data • Reliable Operations**
+
+</div>
+
+---
 <h2>🎓 Education</h2>
 
 <table>
