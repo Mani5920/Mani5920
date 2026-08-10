@@ -2,9 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:07111F,45:0B2345,100:0078D4&text=%3E_%20MANI%20KUMAR%20NANCHARLA&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Enterprise%20Systems%20%E2%80%A2%20Data%20%E2%80%A2%20PKI%20%E2%80%A2%20Cloud%20%E2%80%A2%20Identity%20%E2%80%A2%20Automation&descAlignY=60&descSize=15" alt="Mani Kumar Nancharla"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=%24+whoami+%E2%86%92+Systems+Engineer+%7C+Enterprise+Engineering;%24+focus+%E2%86%92+Data+%7C+PKI+%7C+Cloud+%7C+Identity;%24+automate+%E2%86%92+Python+%7C+PowerShell+%7C+Bash+%7C+Terraform;%24+mission+%E2%86%92+Secure+Systems+%7C+Trusted+Data+%7C+Reliable+Platforms" alt="Typing animation"/>
+<h3>Enterprise Systems Engineer · Data Engineering · PKI · Cloud · Identity</h3>
 
-<br/>
+<p><b>Secure Systems · Trusted Data · Reliable Platforms · Practical Automation</b></p>
+
+<img src="https://skillicons.dev/icons?i=azure,python,powershell,linux,postgres,docker,terraform,git&theme=dark" alt="Core technologies"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SYSTEMS-ENGINEERING-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA-ENGINEERING-0078D4?style=for-the-badge"/>
@@ -13,132 +17,39 @@
 <img src="https://img.shields.io/badge/IDENTITY-SECURITY-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AUTOMATION-DEVOPS-0078D4?style=for-the-badge"/>
 
-Secure Systems · Trusted Data · Reliable Enterprise Platforms
+<br/>
 
-Systems Engineer building across infrastructure, data, PKI, identity, cloud and automation.
-
-📍 United Kingdom
+📍 United Kingdom · Enterprise Engineering Portfolio
 
 </div>
 
-> whoami
+👨‍💻 Engineering Profile
 
-I work across the engineering layers that keep enterprise technology available, secure, trusted and operable — from systems support and infrastructure to certificate services, identity, data platforms and automation.
+Systems Engineer | Enterprise Systems • Data Engineering • PKI • Cloud • Identity • Automation
 
-My background combines enterprise systems engineering, PKI operations, SQL/Python data work, cloud technologies and operational automation, with a focus on practical architecture, reliability, validation, security and documentation.
+I engineer and support enterprise technology across systems reliability, secure identity, trusted data and operational automation. My experience combines production support, PKI operations, SQL/Python engineering, Azure technologies and infrastructure automation.
 
-profile:
-  role: Systems Engineer
-  location: United Kingdom
+Core approach: Secure by design • Validate before trust • Automate repeatable work • Engineer for reliability • Document for operations
 
-engineering_domains:
-  - Enterprise Systems & Infrastructure
-  - Data Engineering & Analytics
-  - PKI, Cryptography & Certificate Lifecycle
-  - Identity & Access Management
-  - Cloud & DevOps
-  - Automation & Operational Reliability
-
-principles:
-  - Secure by design
-  - Validate before trust
-  - Automate repeatable work
-  - Engineer for reliability
-  - Document for operations
-
-> engineering-map
+🧭 Engineering Capability Map
 
 🖥️ Systems & Infrastructure
 
-📊 Data Engineering
+Windows Server Linux Enterprise Applications Incident Management Service Reliability Regression Testing Change Support Monitoring
 
-🔐 PKI & Identity
+📊 Data Engineering & Analytics
 
-Windows Server
+Python SQL ETL / ELT Azure Data Factory Azure Databricks PySpark Data Warehousing Data Modelling Data Quality Power BI
 
-Python & SQL
+🔐 PKI • Identity • Security
 
-X.509 Certificates
+PKI X.509 OpenSSL Microsoft CA TLS / SSL OCSP / CRL HSM IAM RBAC Microsoft Entra ID Zero Trust
 
-Linux Administration
+☁️ Cloud • DevOps • Automation
 
-ETL / ELT
+Microsoft Azure AWS Docker Terraform Git GitHub Actions Python Automation PowerShell Bash
 
-OpenSSL
-
-Enterprise Applications
-
-Data Validation
-
-Microsoft CA
-
-Incident & Problem Resolution
-
-Data Warehousing
-
-Certificate Lifecycle
-
-Service Reliability
-
-Data Modelling
-
-TLS / SSL
-
-Testing & Change Support
-
-Power BI
-
-OCSP / CRL
-
-Monitoring & Documentation
-
-Azure Data Platforms
-
-IAM / RBAC
-
-☁️ Cloud & DevOps
-
-⚙️ Automation
-
-🛡️ Security Engineering
-
-Microsoft Azure
-
-Python
-
-Zero Trust
-
-AWS
-
-PowerShell
-
-Microsoft Entra ID
-
-Docker
-
-Bash
-
-Azure Key Vault
-
-Terraform
-
-Git / GitHub Actions
-
-HSM Concepts
-
-Azure Networking
-
-Infrastructure as Code
-
-Security Monitoring
-
-Azure Storage
-
-Operational Scripting
-
-Audit & Compliance
-
-> tech-stack
+🧰 Technology Stack
 
 Languages · Querying · Automation
 
@@ -197,7 +108,7 @@ PKI · Identity · Cybersecurity
 <img src="https://img.shields.io/badge/Zero%20Trust-SECURITY-111827?style=flat-square"/>
 </div>
 
-> ls featured-projects/
+🚀 Featured Engineering Portfolio
 
 Enterprise-style portfolio projects connecting architecture, implementation, automation, security, data quality and operational documentation.
 
@@ -363,11 +274,11 @@ Customer 360
 
 </details>
 
-> cat experience.log
+💼 Professional Experience
 
 🖥️ Systems Engineer
 
-Sopra Steria — Client: NHS Shared Business Services · United KingdomMay 2026 — Present
+Sopra Steria — Client: NHS Shared Business Services📍 United Kingdom · May 2026 — Present
 
 Enterprise application and systems support across controlled live and test environments.
 
@@ -379,11 +290,11 @@ Controlled change support, technical procedures, documentation and audit-ready e
 
 Collaboration across application support, infrastructure, security and Service Desk functions.
 
-SQL Windows Linux Enterprise Applications Testing Incident Management
+Skills: SQL Windows Linux Enterprise Applications Testing Incident Management
 
 🔐 PKI Engineer
 
-Randstad India — Deputed to IDRBT · Hyderabad, IndiaFeb 2024 — Aug 2024
+Randstad India — Deputed to IDRBT📍 Hyderabad, India · Feb 2024 — Aug 2024
 
 Supported certificate issuance, renewal, revocation and expiry-monitoring operations.
 
@@ -395,11 +306,11 @@ Automated repeatable operational activities with PowerShell and Bash.
 
 Developed SOPs and supported FIPS 140-2, PCI DSS and ISO 27001 aligned operations.
 
-PKI X.509 OpenSSL Microsoft CA TLS/SSL HSM PowerShell Bash
+Skills: PKI X.509 OpenSSL Microsoft CA TLS/SSL HSM PowerShell Bash
 
 ⚙️ Product Development Manager / Operations Engineering
 
-3BROS BURGERS LIMITED · United KingdomJan 2025 — Apr 2026
+3BROS BURGERS LIMITED📍 United Kingdom · Jan 2025 — Apr 2026
 
 Supported operational systems with a focus on reliability and process improvement.
 
@@ -409,7 +320,7 @@ Built Power BI reporting and forecasting for operational visibility.
 
 Supported regression testing, validation, RBAC controls and process documentation.
 
-Python SQL Power BI Automation Testing Operations
+Skills: Python SQL Power BI Automation Testing Operations
 
 🛠️ Project Associate
 
@@ -419,106 +330,55 @@ Supported end users, investigated technical issues and contributed to service-qu
 
 Worked with CRM-based processes, issue resolution and technical documentation.
 
-Technical Support Troubleshooting CRM Documentation
+Skills: Technical Support Troubleshooting CRM Documentation
 
-> cat architecture.md
+🏗️ Enterprise Engineering Model
 
-Enterprise Engineering Model
+One Engineering Model — Multiple Enterprise Capabilities
 
-                    ENTERPRISE ENGINEERING
-                             │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-          ▼                  ▼                  ▼
-       SYSTEMS            SECURITY             DATA
-       & CLOUD            & IDENTITY          PLATFORMS
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             ▼
-                    AUTOMATION & DEVOPS
-                             │
-                             ▼
-                 RELIABLE ENTERPRISE SERVICES
+SYSTEMS & CLOUD → reliable infrastructure and enterprise servicesSECURITY & IDENTITY → trusted access, PKI and certificate operationsDATA PLATFORMS → validated, modelled and analytics-ready informationAUTOMATION & DEVOPS → repeatable engineering and operational efficiency
 
-Security flow: IDENTITY → AUTHENTICATION → AUTHORIZATION → PKI TRUST → ACCESS → MONITORING → AUDIT
+Security lifecycle: IDENTITY → AUTHENTICATION → AUTHORIZATION → PKI TRUST → ACCESS → MONITORING → AUDIT
 
-Data flow: SOURCE → INGEST → BRONZE → SILVER → GOLD → MODEL → ANALYTICS
+Data lifecycle: SOURCE → INGEST → BRONZE → SILVER → GOLD → MODEL → ANALYTICS
 
-> cat education.yaml
+🎓 Education
 
-masters:
-  degree: MSc Information Systems
-  university: University of Portsmouth
-  country: United Kingdom
-  focus: [Information Systems, Cybersecurity, Web Product Development, UX, Research]
-  dissertation:
-    title: Retail Analytics
-    stack: Power BI + PostgreSQL
+🎓 MSc Information Systems
 
-bachelors:
-  degree: B.Tech Electronics & Communication Engineering
-  foundation: [Electronics, Communications, Computing, Technical Problem Solving]
-  project: Underwater Image Restoration
+University of Portsmouth · United Kingdom
 
-> cat technical-development.md
+Focus: Information Systems Cybersecurity Web Product Development UX Research Methods
 
-Area
+Dissertation — Retail AnalyticsPower BI + PostgreSQL · transforming business data into structured analytical insights.
 
-Development
+🎓 B.Tech — Electronics & Communication Engineering
 
-Focus
+Foundation: Electronics Communications Computing Technical Problem Solving
 
-☁️ Azure Administration
+Academic Project — Underwater Image RestorationImage enhancement and scene-depth estimation.
 
-AZ-104 training completed
+📚 Technical Development
 
-Resources · networking · storage · identity · administration
+AZ-104 — Azure Administrator: instructor-led training completed; exam pending
 
-🛡️ Azure Security
+AZ-500 — Azure Security Engineer: instructor-led training completed; exam pending
 
-AZ-500 training completed
+SC-200 — Security Operations Analyst: instructor-led training completed; exam pending
 
-Cloud security · identity · networking · controls
+SC-300 — Identity & Access Administrator: instructor-led training completed; exam pending
 
-🔎 Security Operations
+KCNA: cloud-native and Kubernetes learning
 
-SC-200 training completed
+ITIL 4 Foundation: service-management learning
 
-Microsoft Sentinel · monitoring · security operations
+CompTIA Security+: cybersecurity learning
 
-🔐 Identity
+CCNA: networking learning
 
-SC-300 training completed
+Training and learning are intentionally separated from official certification status.
 
-Microsoft Entra ID · identity · access administration
-
-☸️ Cloud Native
-
-KCNA learning
-
-Kubernetes · cloud-native fundamentals
-
-⚙️ Service Management
-
-ITIL 4 Foundation learning
-
-IT service management · operational practices
-
-🛡️ Cybersecurity
-
-CompTIA Security+ learning
-
-Security principles · cybersecurity fundamentals
-
-🌐 Networking
-
-CCNA learning
-
-Routing · switching · networking fundamentals
-
-Credential clarity: Training and learning are intentionally separated from official certification status.
-
-> github --activity
+📊 GitHub Engineering Activity
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Mani5920&theme=transparent&hide_border=true&ring=0078D4&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak"/>
@@ -526,25 +386,19 @@ Credential clarity: Training and learning are intentionally separated from offic
 
 Repository quality, architecture, documentation and implementation depth matter more than vanity metrics.
 
-> cat current-focus.yaml
+🔭 Current Engineering Focus
 
-building:
-  - Enterprise data platforms
-  - PKI and certificate lifecycle automation
-  - Identity and Zero Trust architecture
-  - Cloud infrastructure engineering
+Building
 
-deepening:
-  - Azure engineering
-  - Data platform architecture
-  - Security automation
-  - Infrastructure as Code
-  - Operational observability
+Enterprise Data Platforms PKI Automation Certificate Lifecycle Engineering Identity & Zero Trust Cloud Infrastructure
 
-goal:
-  "Connect systems, security, data and automation into reliable enterprise platforms."
+Deepening
 
-> engineering-principles
+Azure Engineering Data Platform Architecture Security Automation Infrastructure as Code Operational Observability
+
+Engineering goal: Connect systems, security, data and automation into reliable enterprise platforms.
+
+🧩 Engineering Principles
 
 <div align="center">
 <img src="https://img.shields.io/badge/SECURE-BY%20DESIGN-0078D4?style=for-the-badge"/>
