@@ -338,63 +338,163 @@ Customer 360
 
 </details>
 
-💼 Professional Experience
+<h2>💼 Professional Experience</h2>
 
-🖥️ Systems Engineer
+<table>
+<tr>
+<td width="100%" valign="top">
 
-Sopra Steria — Client: NHS Shared Business Services📍 United Kingdom · May 2026 — Present
+<h3>🖥️ Systems Engineer</h3>
 
-Enterprise application and systems support across controlled live and test environments.
+<b>Sopra Steria — Client: NHS Shared Business Services</b><br/>
+📍 United Kingdom &nbsp; • &nbsp; 📅 May 2026 — Present
 
-SLA-driven incident investigation, troubleshooting and operational support.
+<br/><br/>
 
-SQL-based data validation, reconciliation, regression testing and output verification.
+<img src="https://img.shields.io/badge/ENTERPRISE-SYSTEMS-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRODUCTION-SUPPORT-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA-VALIDATION-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/SERVICE-RELIABILITY-0078D4?style=flat-square"/>
 
-Controlled change support, technical procedures, documentation and audit-ready evidence.
+<br/><br/>
 
-Collaboration across application support, infrastructure, security and Service Desk functions.
+<b>Engineering Focus</b>
 
-Skills: SQL Windows Linux Enterprise Applications Testing Incident Management
+• Support enterprise applications across controlled live and test environments.<br/>
+• Investigate incidents and operational issues within SLA-driven services.<br/>
+• Perform SQL-based validation, reconciliation and output verification.<br/>
+• Support regression testing, controlled changes and production readiness.<br/>
+• Maintain technical procedures, operational documentation and audit evidence.
 
-🔐 PKI Engineer
+<br/><br/>
 
-Randstad India — Deputed to IDRBT📍 Hyderabad, India · Feb 2024 — Aug 2024
+<b>Core Technologies</b><br/>
 
-Supported certificate issuance, renewal, revocation and expiry-monitoring operations.
+<code>SQL</code>
+<code>Windows</code>
+<code>Linux</code>
+<code>Enterprise Applications</code>
+<code>Testing</code>
+<code>Incident Management</code>
 
-Worked with X.509, Microsoft Certificate Services, OpenSSL, TLS/SSL, OCSP and CRL.
+</td>
+</tr>
+</table>
 
-Supported Windows/Linux PKI and HSM-related cryptographic environments.
+<br/>
 
-Automated repeatable operational activities with PowerShell and Bash.
+<table>
+<tr>
+<td width="100%" valign="top">
 
-Developed SOPs and supported FIPS 140-2, PCI DSS and ISO 27001 aligned operations.
+<h3>🔐 PKI Engineer</h3>
 
-Skills: PKI X.509 OpenSSL Microsoft CA TLS/SSL HSM PowerShell Bash
+<b>Randstad India — Deputed to IDRBT</b><br/>
+📍 Hyderabad, India &nbsp; • &nbsp; 📅 Feb 2024 — Aug 2024
 
-⚙️ Product Development Manager / Operations Engineering
+<br/><br/>
 
-3BROS BURGERS LIMITED📍 United Kingdom · Jan 2025 — Apr 2026
+<img src="https://img.shields.io/badge/PKI-DIGITAL%20TRUST-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/X.509-CERTIFICATES-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/CRYPTOGRAPHY-OPERATIONS-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/AUTOMATION-ENGINEERING-0078D4?style=flat-square"/>
 
-Supported operational systems with a focus on reliability and process improvement.
+<br/><br/>
 
-Used SQL and Python to automate recurring workflows and data checks.
+<b>Engineering Focus</b>
 
-Built Power BI reporting and forecasting for operational visibility.
+• Supported certificate issuance, renewal, revocation and expiry operations.<br/>
+• Worked with X.509, Microsoft Certificate Services, OpenSSL, TLS/SSL, OCSP and CRL.<br/>
+• Supported Windows/Linux PKI and HSM-related cryptographic environments.<br/>
+• Automated repeatable operational activities using PowerShell and Bash.<br/>
+• Developed SOPs supporting FIPS 140-2, PCI DSS and ISO 27001 aligned operations.
 
-Supported regression testing, validation, RBAC controls and process documentation.
+<br/><br/>
 
-Skills: Python SQL Power BI Automation Testing Operations
+<b>Core Technologies</b><br/>
 
-🛠️ Project Associate
+<code>PKI</code>
+<code>X.509</code>
+<code>OpenSSL</code>
+<code>Microsoft CA</code>
+<code>TLS/SSL</code>
+<code>HSM</code>
+<code>PowerShell</code>
+<code>Bash</code>
 
-Bheem TechnologiesJul 2022 — Jan 2024
+</td>
+</tr>
+</table>
 
-Supported end users, investigated technical issues and contributed to service-quality improvements.
+<br/>
 
-Worked with CRM-based processes, issue resolution and technical documentation.
+<table>
+<tr>
+<td width="100%" valign="top">
 
-Skills: Technical Support Troubleshooting CRM Documentation
+<h3>⚙️ Product Development Manager / Operations Engineering</h3>
+
+<b>3BROS BURGERS LIMITED</b><br/>
+📍 United Kingdom &nbsp; • &nbsp; 📅 Jan 2025 — Apr 2026
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPERATIONS-ENGINEERING-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-AUTOMATION-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/POWER%20BI-ANALYTICS-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROCESS-IMPROVEMENT-0078D4?style=flat-square"/>
+
+<br/><br/>
+
+<b>Engineering Focus</b>
+
+• Supported operational systems with emphasis on reliability and process improvement.<br/>
+• Automated recurring workflows and data validation using Python and SQL.<br/>
+• Built Power BI reporting and forecasting for operational visibility.<br/>
+• Supported regression testing, validation and RBAC-based controls.<br/>
+• Maintained operational processes and technical documentation.
+
+<br/><br/>
+
+<b>Core Technologies</b><br/>
+
+<code>Python</code>
+<code>SQL</code>
+<code>Power BI</code>
+<code>Automation</code>
+<code>Testing</code>
+<code>RBAC</code>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>🛠️ Earlier Experience — Project Associate</b></summary>
+
+<br/>
+
+<b>Bheem Technologies</b><br/>
+📅 Jul 2022 — Jan 2024
+
+<br/><br/>
+
+• Supported end users and investigated technical issues.<br/>
+• Contributed to service-quality and issue-resolution improvements.<br/>
+• Worked with CRM processes and technical documentation.
+
+<br/><br/>
+
+<code>Technical Support</code>
+<code>Troubleshooting</code>
+<code>CRM</code>
+<code>Documentation</code>
+
+</details>
+
+<br/>
 
 🏗️ Enterprise Engineering Model
 
