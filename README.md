@@ -506,22 +506,92 @@ Security lifecycle: IDENTITY → AUTHENTICATION → AUTHORIZATION → PKI TRUST 
 
 Data lifecycle: SOURCE → INGEST → BRONZE → SILVER → GOLD → MODEL → ANALYTICS
 
-🎓 Education
+<h2>🎓 Education</h2>
 
-🎓 MSc Information Systems
+<table>
+<tr>
 
-University of Portsmouth · United Kingdom
+<td width="50%" valign="top">
 
-Focus: Information Systems Cybersecurity Web Product Development UX Research Methods
+<h3>🎓 MSc Information Systems</h3>
 
-Dissertation — Retail AnalyticsPower BI + PostgreSQL · transforming business data into structured analytical insights.
+<b>University of Portsmouth</b><br/>
+🇬🇧 United Kingdom
 
-🎓 B.Tech — Electronics & Communication Engineering
+<br/><br/>
 
-Foundation: Electronics Communications Computing Technical Problem Solving
+<img src="https://img.shields.io/badge/MASTER'S-INFORMATION%20SYSTEMS-0078D4?style=flat-square"/>
 
-Academic Project — Underwater Image RestorationImage enhancement and scene-depth estimation.
+<br/><br/>
 
+<b>Academic Focus</b><br/><br/>
+
+<code>Information Systems</code>
+<code>Cybersecurity</code>
+<code>Web Product Development</code>
+<code>UX</code>
+<code>Research Methods</code>
+
+<br/><br/>
+
+<b>📊 Dissertation</b><br/><br/>
+
+<b>Retail Analytics</b>
+
+<br/><br/>
+
+<code>Power BI</code>
+<code>PostgreSQL</code>
+<code>Analytics</code>
+
+<br/><br/>
+
+Transforming business data into structured analytical insights.
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>🎓 B.Tech — Electronics & Communication Engineering</h3>
+
+<b>Engineering Foundation</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BACHELOR'S-ENGINEERING-0078D4?style=flat-square"/>
+
+<br/><br/>
+
+<b>Core Foundation</b><br/><br/>
+
+<code>Electronics</code>
+<code>Communications</code>
+<code>Computing</code>
+<code>Technical Problem Solving</code>
+
+<br/><br/>
+
+<b>🌊 Academic Project</b><br/><br/>
+
+<b>Underwater Image Restoration</b>
+
+<br/><br/>
+
+<code>Image Processing</code>
+<code>Image Enhancement</code>
+<code>Scene Depth</code>
+
+<br/><br/>
+
+Image enhancement and scene-depth estimation.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 📚 Technical Development
 
 AZ-104 — Azure Administrator: instructor-led training completed; exam pending
