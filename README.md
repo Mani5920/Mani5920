@@ -687,11 +687,23 @@ CCNA: networking learning
 
 Training and learning are intentionally separated from official certification status.
 
-📊 GitHub Engineering Activity
+## 📊 GitHub Engineering Activity
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Mani5920&theme=transparent&hide_border=true&ring=0078D4&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak"/>
-</div>
+**Portfolio focus:** enterprise architecture, engineering documentation, practical implementation and project depth.
+
+### Featured Engineering Areas
+
+`Systems Engineering` · `Data Engineering` · `PKI` · `Identity` · `Cloud` · `Automation`
+
+### Repository Priorities
+
+- Clear architecture and technical documentation
+- Practical enterprise-style implementations
+- Automation and repeatable engineering workflows
+- Security, reliability and data-quality principles
+- Recruiter-readable READMEs and project structure
+
+---
 
 Repository quality, architecture, documentation and implementation depth matter more than vanity metrics.
 
